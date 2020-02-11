@@ -1,0 +1,49 @@
+header {
+    font: <link href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap" rel="stylesheet">;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+body {
+    text-align: center;
+    font: <link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet">;
+    font-family: 'Playfair Display', serif;
+    background-color: paleturquoise;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+p {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+a {
+    font: underline;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: underline;
+    font-weight: none;
+}
+a:link {
+  color: darkblue;
+}
+
+a:visited {
+  color: darkred;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+a:active {
+  text-decoration: none;
+}
+nav .btn {
+    background-color: #5b7d87;
+    color: #fef9ff;
+}
+.container {
+    text-align: center;
+}
